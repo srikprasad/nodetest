@@ -1,0 +1,6 @@
+git clone https://github.com/srikprasad/git-nodetest
+git remote add origin https://github.com/srikprasad/git-nodetest.git
+git init
+git add .
+
+git commit -m "nodetest"
